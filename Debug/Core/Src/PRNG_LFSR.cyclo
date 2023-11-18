@@ -1,0 +1,2 @@
+../Core/Src/PRNG_LFSR.c:10:6:init_LFSR	1
+../Core/Src/PRNG_LFSR.c:19:11:prng_LFSR	3

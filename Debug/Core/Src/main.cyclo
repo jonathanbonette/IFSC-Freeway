@@ -1,0 +1,14 @@
+../Core/Src/main.c:100:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:111:6:vTask_LCD_Print	1
+../Core/Src/main.c:147:6:vTask_Desloca	4
+../Core/Src/main.c:188:6:isHit	5
+../Core/Src/main.c:204:6:vTask_Desloca_Principal_Colisao	10
+../Core/Src/main.c:289:6:vTask_Pontuacao	2
+../Core/Src/main.c:314:5:main	2
+../Core/Src/main.c:453:6:SystemClock_Config	4
+../Core/Src/main.c:499:13:MX_ADC1_Init	4
+../Core/Src/main.c:550:13:MX_DMA_Init	1
+../Core/Src/main.c:568:13:MX_GPIO_Init	1
+../Core/Src/main.c:619:6:StartDefaultTask	1
+../Core/Src/main.c:638:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:655:6:Error_Handler	1
