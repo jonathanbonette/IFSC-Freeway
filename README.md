@@ -11,7 +11,7 @@ Miicrocontroladores 2</b>
 *Jonathan Chrysostomo Cabral Bonette*
 
 #
-<img src="images/pixil-frame-0.png" align="center" width="150" alt="Logo IFSC">
+<img src="images/pixil-frame-0.png" align="center" width="150" alt="Logo IFSC"><br>
 
 "IFSC Freeway" é um jogo inspirado no clássico "Freeway" do Atari. Neste desafio, você controla um personagem tentando atravessar uma rua movimentada, desviando-se habilmente de carros em alta velocidade. Desenvolvido como parte de um projeto prático para a disciplina de Microcontroladores 2 do IFSC na linguagem C e usando o Microcontrolador STM32, o jogo oferece uma experiência simples, mas divertida e desafiadora, destacando habilidades de programação em um ambiente interativo. Embarque nessa aventura única, onde cada movimento conta e a destreza é essencial.
 
