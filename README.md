@@ -15,6 +15,6 @@ Miicrocontroladores 2</b>
 
 "IFSC Freeway" é um jogo inspirado no clássico "Freeway" do Atari. Neste desafio, você controla um personagem tentando atravessar uma rua movimentada, desviando-se habilmente de carros em alta velocidade. Desenvolvido como parte de um projeto prático para a disciplina de Microcontroladores 2 do IFSC na linguagem C e usando o Microcontrolador STM32, o jogo oferece uma experiência simples, mas divertida e desafiadora, destacando habilidades de programação em um ambiente interativo. Embarque nessa aventura única, onde cada movimento conta e a destreza é essencial.
 
-<img src="images/game_case.png" align="center" width="500" alt="IFSC">
+<img src="game_case.png" align="center" width="500" alt="IFSC">
 
 </td></tr></table>
